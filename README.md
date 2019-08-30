@@ -1,2 +1,2 @@
-# deploy-demo
-Demo of the site for the local environments
+# Medical Center 24. Demo environment.
+Demo deployment package.
